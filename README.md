@@ -1,2 +1,3 @@
 # Python-for-Finance-Repo
-Private Repo for Financial Analysis Course
+
+these files are for personal consumption and revision
